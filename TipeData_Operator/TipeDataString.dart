@@ -17,4 +17,10 @@ void main() {
 
   // mengubah menjadi list
   print(daftarKucing.split('*'));
+
+  // menampilkan substring
+  print(nama.substring(6, 9));
+
+  // 6 mulai (masuk)
+  // 9 akhir (tidak masuk)
 }
