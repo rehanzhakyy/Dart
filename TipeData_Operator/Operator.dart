@@ -1,7 +1,7 @@
 void main() {
   var a = 4;
   var b = 10;
-  var c = a + b;
+  // var c = a + b;
 
   // Operands - > representasi dari data (a & b)
   // Operators -> sesuati yang memutuskan bagaimana operands akan diproses (+)
@@ -40,7 +40,7 @@ void main() {
   bool x = false;
   bool y = false;
   // && AND -> bernilai false apabila salah satu bernilai false
-  print(x && y);
+  // print(x && y);
   // || OR -> bernilai true apabila salah satu bernilai true
   print(x || y);
   // ! NOT -> nilai menjadi berlawanan
